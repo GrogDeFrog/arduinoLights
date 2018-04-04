@@ -13,4 +13,3 @@ void loop() {
   l1.fade();
   l2.fade();
 }
-
